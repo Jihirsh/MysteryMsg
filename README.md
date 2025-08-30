@@ -42,7 +42,8 @@ This project was developed as a learning exercise in utilizing **Next.js** not j
 
 ## Project Structure
 
-ama-app/
+```
+mysterymsg/
 ├── src/
 │   ├── schemas/
 │   │   └── acceptMessageSchema.ts  ← Zod schema for message validation
@@ -52,9 +53,12 @@ ama-app/
 │   │   └── …                     ← Frontend components/pages
 ├── package.json
 └── README.md
+```
 
 ---
 
 ## Learning Goals
 
-I embarked on this project to explore how Next.js can be used beyond frontend rendering—to build backend APIs, integrate TypeScript, and ensure data integrity via schemas. It’s a great learning exercise in full-stack TypeScript development. Huge THANKS to CHAI aur CODE for this amazing tutorial (https://youtube.com/playlist?list=PLu71SKxNbfoBAaWGtn9GA2PTw0HO0tXzq&si=9IKoH87rFwf6uID1).
+I embarked on this project to explore how Next.js can be used beyond frontend rendering—to build backend APIs, integrate TypeScript, and ensure data integrity via schemas. It’s a great learning exercise in full-stack TypeScript development.
+
+Huge THANKS to CHAI aur CODE for this amazing tutorial (https://youtube.com/playlist?list=PLu71SKxNbfoBAaWGtn9GA2PTw0HO0tXzq&si=9IKoH87rFwf6uID1).
